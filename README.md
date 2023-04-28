@@ -1,3 +1,9 @@
+---
+gitea: none
+include_toc: true
+---
+
+
 ```mermaid
 graph TD
   A(Initialize a new React Native project) --> B(Install required libraries)
@@ -10,10 +16,6 @@ graph TD
   H --> I(Style UI components)
   I --> J(Test the app on<br>a physical device)
 ```
----
-gitea: none
-include_toc: true
----
 
 
 ### Step 1: Set up a new React Native project
