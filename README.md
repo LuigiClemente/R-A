@@ -1,8 +1,3 @@
----
-gitea: none
-include_toc: true
----
-
 
 ```mermaid
 graph TD
